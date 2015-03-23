@@ -2,13 +2,18 @@
   color:red;
 
 }
-#Where{
-float: left;
+
+#about{
+  float: left;
+  width: 40%;
+  padding: 2em;
 }
-#When{
-float: right;
+#whereandwhen{
+  float: left;
+  width: 40%;
+  padding: 2em;
 }
 
-#lunch{
-  clear: both;
+header{
+text-align: center; 
 }
